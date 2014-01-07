@@ -1,7 +1,7 @@
 {
   "name": "particles-jquery",
   "description": "Add JQuery to your Particles application",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/particles/particles-jquery",
   "author": {
     "name": "Mario Casciaro"
@@ -20,6 +20,6 @@
     }
   ],
   "peerDependencies": {
-    "grunt-particles-assetmanager": "~0.1.0"
+    "grunt-particles-assetmanager": "~0.2.0"
   }
 }

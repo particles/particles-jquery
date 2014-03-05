@@ -1,11 +1,10 @@
+[![NPM version](https://badge.fury.io/js/particles-jquery.png)](http://badge.fury.io/js/particles-jquery) 
+[![Dependency Status](https://gemnasium.com/particles/particles-jquery.png)](https://gemnasium.com/particles/particles-jquery)
 
-#Synopsis
+# [particles](https://github.com/particles/particles)-jquery
 
-Add JQuery to your [Particles](https://github.com/particles) application
+> JQuery client-side asset for Particles applications
 
-[![NPM](https://nodei.co/npm/particles-jquery.png?downloads=true)](https://nodei.co/npm/particles-jquery/)
+## License
 
------
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/particles/particles-express/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+[MIT](http://en.wikipedia.org/wiki/MIT_License) @ Mario Casciaro
